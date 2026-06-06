@@ -2,6 +2,10 @@
 
 Bu proje, Python ve `Ursina` kullanılarak geliştirilmiş sade bir Flappy Bird klonudur.
 
+## Ekran Goruntusu
+
+![Oyun ekran görüntüsü](flappyss.png)
+
 ## Gereksinimler
 
 - Python 3
